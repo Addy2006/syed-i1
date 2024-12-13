@@ -1,3 +1,3 @@
 # syed
-first git repository (i1)
+first git repository 
 author - syed sibgath
