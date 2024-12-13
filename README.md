@@ -1,2 +1,3 @@
-# syed-i1
+# syed
 first git repository (i1)
+author - syed sibgath
